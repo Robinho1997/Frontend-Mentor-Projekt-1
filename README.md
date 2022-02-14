@@ -1,5 +1,3 @@
-# Frontend-mentor-projekt-1
-
-social-roof-section-master
+Front-End-Mentor-Projekt - Social proof section
 
 https://www.frontendmentor.io/challenges/social-proof-section-6e0qTv_bA
